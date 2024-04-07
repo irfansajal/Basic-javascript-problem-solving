@@ -3,7 +3,7 @@
 
 const summation = (n) =>{
    
-    for(let i = 1; i <= 10; i++){
+    for(let i = 0; i <= 10; i++){
       n = n + i;
      
     }
@@ -11,3 +11,5 @@ const summation = (n) =>{
 }
  let n = 0;
 summation(n) 
+
+

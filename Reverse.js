@@ -20,7 +20,7 @@ let result = findBiggerName(name);
 console.log(result); */
 // second way 
 
-const reverseName = (name1,name2)=> {
+/* const reverseName = (name1,name2)=> {
     let first = name1.length
     let second = name2.length
     if (first > second){
@@ -32,4 +32,5 @@ const reverseName = (name1,name2)=> {
 
 }
 let result = reverseName('alina','bony')
-console.log(result);
+console.log(result); */
+
